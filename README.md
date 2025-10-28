@@ -3,9 +3,7 @@
 My name is Pedro, and I'm an undergraduate in Information Systems really interested in almost everything related to coding. Currently I'm diving into Python, SQL, Power BI, and a little bit of Java and C++ too in personal projects not related to my professional growth. I'm aiming to become a Data Engineer someday and eventually lead global data teams across the world since I really love to be part of a good changing in people's lives by turning data into useful insights. 
 ---
 ## 🔭 I’m currently working on..
----
 Personal projects related not only to the data analysis process, but also to the data engineering ones. Building PowerBI dashboards, cleaning data using SQL, automating ETL with Python and so on. 
----
 ## 🌱 I’m currently learning..
 ---
 Python | for | data analysis with Pandas an

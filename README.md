@@ -17,7 +17,7 @@ My name is Pedro, I'm an Information Systems student and data-driven professiona
 - Showing how data can truly drive impact
 
 ## How to reach me:
-- [Email][[bessapedro500@gmail.com](https://gmail.com/)]
+- 
 <!--
 **pdrbessahm/pdrbessahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

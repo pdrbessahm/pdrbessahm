@@ -2,18 +2,22 @@
 My name is Pedro, I'm an Information Systems student and data-driven professional currently managing +30 restaurants performance at a Food Agency in Brazil. I'm passionate about transforming data into insights, making a good difference in people's lives and automating processes that make operations smarter and faster.
 
 ## 🔭 I’m currently foccusing on:
-- Building ent-to-end **data engineering and analytics projects**;
-- Mastering **Python, SQL and Power BI**;
-- Growing my technical portfolio on GitHub.
+- Building end-to-end **data engineering and analytics projects**
+- Mastering **Python, SQL and Power BI**
+- Growing my technical portfolio on GitHub
 
 ## 🌱 My goal is:
-- To become a Data Engineer after land my job and build experience through the Data Analyst role;
-- In the long term being able to combine analytics, automation, people management and business strategy;
+- To become a **Data Engineer** after land my job and build a few years of experience through the **Data Analyst** role
+- In the long term being able to combine analytics, automation, people management and business strategy
 - So I can finally become a **Data Director**
 
-- 📫 How to reach me:
----
+## 🌎 I'm passionate about:
+- Merging business performance
+- With coding and data storytelling
+- Showing how data can truly drive impact
 
+## How to reach me:
+- [Email][[bessapedro500@gmail.com](https://gmail.com/)]
 <!--
 **pdrbessahm/pdrbessahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

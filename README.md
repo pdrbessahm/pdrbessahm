@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 My name is Pedro, I'm an Information Systems student and data-driven professional currently managing +30 restaurants performance at a Food Agency in Brazil. I'm passionate about transforming data into insights, making a good difference in people's lives and automating processes that make operations smarter and faster.
 
 ## 🔭 I’m currently foccusing on:
@@ -16,7 +16,7 @@ My name is Pedro, I'm an Information Systems student and data-driven professiona
 - With coding and data storytelling
 - Showing how data can truly drive impact
 
-## How to reach me:
+## 📩 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-bessa-10092003rn/)
 
 <!--

@@ -1,11 +1,15 @@
 ## Hi there 👋
-My name is Pedro, and I'm an undergraduate in Information Systems really interested in almost everything related to coding. Currently I'm diving into Python, SQL, Power BI, and a little bit of Java and C++ too in personal projects not related to my professional growth. I'm aiming to become a Data Engineer someday and eventually lead global data teams across the world since I really love to be part of a good changing in people's lives by turning data into useful insights. 
+My name is Pedro, I'm an Information Systems student and data-driven professional currently managing +30 restaurants performance at a Food Agency in Brazil. I'm passionate about transforming data into insights, making a good difference in people's lives and automating processes that make operations smarter and faster.
 
-## 🔭 I’m currently working on..
-Personal projects related not only to the data analysis process, but also to the data engineering ones. Building PowerBI dashboards, cleaning data using SQL, automating ETL with Python and so on. 
+## 🔭 I’m currently foccusing on:
+- Building ent-to-end **data engineering and analytics projects**;
+- Mastering **Python, SQL and Power BI**;
+- Growing my technical portfolio on GitHub.
 
-## 🌱 I’m currently learning..
-Python for data analysis with Pandas an
+## 🌱 My goal is:
+- To become a Data Engineer after land my job and build experience through the Data Analyst role;
+- In the long term being able to combine analytics, automation, people management and business strategy;
+- So I can finally become a **Data Director**
 
 - 📫 How to reach me:
 ---

@@ -18,7 +18,7 @@ My name is Pedro, I'm an Information Systems student and data-driven professiona
 
 ## 📩 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-bessa-10092003rn/)
-- [bessapedro500@gmail.com](https://gmail.com/)
+- bessapedro500@gmail.com
 <!--
 **pdrbessahm/pdrbessahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
